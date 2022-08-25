@@ -1,0 +1,11 @@
+h1,
+p {
+    color: rgb(12, 11, 12);
+    font-family: Arial;
+    font-weight: 900;
+    text-align: center;
+}
+
+header {
+    background-color: purple;
+}
