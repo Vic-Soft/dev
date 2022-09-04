@@ -1,8 +1,8 @@
------
+---
 name: "Feature Anomally"
 about: "An issue on a feature anomally"
 
------
+---
 
 # ISSUE DESCRIPTION
 
