@@ -1,7 +1,6 @@
-let greetings = "Hello Welcome";
-
+#!/usr/bin/env node
+let greetings = "hello"
 function hi() {
-    console.log(let);    
+  console.log(greetings)
 }
-
-hi();
+hi()
