@@ -1,3 +1,4 @@
 # Git Attributes 
 *.jpg diff=exif
-.*	export-ignore`
+.* export-ignore
+index.js export-ignore
