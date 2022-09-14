@@ -1,4 +1,5 @@
 # Git Attributes 
+# * text=auto (for file normalizations ie conversion of CRLF bytes or ASCII encoding to LF bytes or ASCII encoding)
 *.jpg	diff=exif
 .*	export-ignore
 index.js	export-ignore
