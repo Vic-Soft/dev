@@ -1,7 +1,12 @@
 # Git Attributes 
-* text=auto # (for file normalizations ie conversion of CRLF bytes or ASCII encoding line endings to LF bytes or ASCII encoding line endings)
+
+* text=auto
+# (for file normalizations ie conversion of CRLF bytes or ASCII encoding line endings to LF bytes or ASCII encoding line endings)
+
 *.jpg	diff=exif
+
 .*	export-ignore
 index.js	export-ignore
 index.css	export-ignore
+
 mba.js	filter=updateCelciusData
