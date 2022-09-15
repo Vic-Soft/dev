@@ -1,3 +1,5 @@
 This file has a CRLF line endings.
 This is a second line.
 This is a third line.
+Lagos
+Add 4th line
